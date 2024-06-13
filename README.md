@@ -5,3 +5,5 @@
 2、打开telegram
 3、开启HamsterKombatBot机器人
 4、收取奖励
+
+<img src="易语言总控.png">
