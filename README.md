@@ -7,3 +7,4 @@
 4、收取奖励
 
 <img src="易语言总控.png">
+<img src="示例.png">
